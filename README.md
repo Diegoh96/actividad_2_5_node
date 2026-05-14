@@ -1,1 +1,14 @@
-# actividad_2_5_node
+# Actividad 2.5 Node.js
+
+## Ejecutar proyecto
+
+1. Instalar Node.js
+
+2. Abrir terminal en la carpeta del proyecto
+
+3. Ejecutar en la terminal
+
+npm init -y para crear el package.json
+
+node node.js
+
